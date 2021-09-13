@@ -93,6 +93,7 @@ class StrikedImageView @JvmOverloads constructor(
                 strikeColor = getInt(R.styleable.StrikedImageView_strikeColor, 0)
             }
             recycle()
+
         }
 
         strikeWithoutAnimation(isStriked)
@@ -211,6 +212,6 @@ class StrikedImageView @JvmOverloads constructor(
     companion object {
         private const val STRIKE_ANIMATION_DURATION = 500L
         // Hex value for 38% opacity - Material Guidelines recommended value for disabled states
-        private const val STRIKE_ALPHA = 97
+        private const val STRIKE_ALPHA = 255//97
     }
 }

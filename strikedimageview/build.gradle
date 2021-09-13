@@ -1,8 +1,9 @@
 plugins {
-    id 'com.android.library'
+//    id 'com.android.library'
+    id 'com.android.application'
     id 'kotlin-android'
     id 'kotlin-parcelize'
-    id 'maven-publish'
+//    id 'maven-publish'
 }
 
 android {
@@ -20,15 +21,6 @@ android {
         }
     }
 
-    project.afterEvaluate {
-        publishing {
-            publications {
-                release(MavenPublication) {
-                    from components.release
-                }
-            }
-        }
-    }
 }
 
 dependencies {

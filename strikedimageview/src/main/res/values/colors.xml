@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTab">#7A5EBC</color>
+    <color name="colorTabText">@android:color/tertiary_text_light</color>
+    <color name="colorTabTextSelected">@android:color/secondary_text_light</color>
+    <color name="colorPrimary">#F8F8F8</color>
+    <color name="colorPrimaryDark">#F8F8F8</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackgroundGray">#2C000000</color>
+    <color name="backgroundColor">@color/background_material_light</color>
+    <color name="drawerItemColor">#404040</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteGray">#14000000</color>
+    <color name="red">#DF8A8A</color>
+    <color name="seaGreen">#00C6A2</color>
+    <color name="seaGreen8">#1400C6A2</color>
+    <color name="textColor">#514E68</color>
+    <color name="textColor2">#0A514E68</color>
+    <color name="toggleBackground">#1A514E68</color>
+    <color name="skipColor">#80514E68</color>
+    <color name="viewColor">#1A514E68</color>
+
+    <color name="searchBg">#144B2EFF</color>
+    <color name="strokeColor">#1F4B2EFF</color>
+    <color name="headingColor">#514E68</color>
+    <color name="purple">#4B2EFF</color>
+    <color name="purple8">#144B2EFF</color>
+    <color name="learnMore">#4971FF</color>
+    <color name="notNow">#606060</color>
+    <color name="newNotification">#F8F8FC</color>
+    <color name="newNotificationText">#7E7B95</color>
+    <color name="bgAppColor">#F8F8F8</color>
+    <color name="lightRedColor">#E2677D</color>
+    <color name="textPink">#BF6BFF</color>
+    <color name="opacityBlack">#4D000000</color>
+
+</resources>
